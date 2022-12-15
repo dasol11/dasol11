@@ -31,5 +31,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
 
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasol11&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=dasol11&show_icons=true">
 ![dasol11's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasol11&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasol11)](https://github.com/dasol11/github-readme-stats)
