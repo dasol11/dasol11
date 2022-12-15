@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasol11&langs_count=8)](https://github.com/dasol11/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasol11&langs_count=8)
 ![dasol11's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasol11&show_icons=true&theme=dark)
