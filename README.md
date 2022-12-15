@@ -28,6 +28,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   
+  
+<div align=center><h1>🛠 TOOLS 🛠</h1></div>
+  <div align=center> 
+
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VScode&logoColor=white">
+    
 <br>
 
 
