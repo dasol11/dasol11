@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div align=center><h1>🛠 TOOLS 🛠</h1></div>
   <div align=center> 
 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     
 <br>
 
