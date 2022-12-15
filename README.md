@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/daaaaaaassol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="https://github.com/dasol11/"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <div align=center><h1>📚 STACKS 📚</h1></div>
-<div align=center> 
+  <div align=center> 
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
