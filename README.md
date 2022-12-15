@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **dasol11/dasol11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img alt="Csharp" 
+ src ="https://img.shields.io/badge/pthon-3776AB.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
