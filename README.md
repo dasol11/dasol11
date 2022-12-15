@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   <a href="https://www.instagram.com/daaaaaaassol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-
+  <a href="https://github.com/dasol11/"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
 <br>
 
 
