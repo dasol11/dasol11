@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=474544&height=200&section=header&text=Dasol11\'s&nbsp;Github!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=474544&height=00&section=header&text=Dasol11\'s&nbsp;Github!&fontSize=60)
 
 <!--
 **dasol11/dasol11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
