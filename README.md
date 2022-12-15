@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![dasol11's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasol11&show_icons=true&theme=dark)
