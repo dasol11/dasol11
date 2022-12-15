@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <div align=center> 
 
   <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white">
 <br>
 
 
