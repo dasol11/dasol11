@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <div align=center>
   <a href="https://www.instagram.com/daaaaaaassol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   <a href="https://github.com/dasol11/"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailtoqorwlsen@Gmail.com)](mailto:본인 qorwlsen@Gmail.com)
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+ 
     
     
     <a href="qorwlsen@Gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
