@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Dasol11%20render&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=400&section=header&text=Dasol11's Github!&fontSize=90)
 
 
 <!--
