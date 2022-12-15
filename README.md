@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>😜 Dasol11 </h1></div>
-<img src="https://img.shields.io/badge/Instagram-E440?5Fstyle=for-the-badge&logo=Instagram&logoColor=white">
+ <a href="https://www.instagram.com/daaaaaaassol/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
