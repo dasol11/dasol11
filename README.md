@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 
 
-<img alt="Csharp" 
- src ="https://img.shields.io/badge/pthon-3776AB.svg?&style=for-the-badge&logo=로고명&logoColor=로고컬러"/>
+<img alt="Python" src ="https://img.shields.io/badge/pthon-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
